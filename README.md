@@ -1,4 +1,6 @@
 # CIS571
 Machine Learning project
 
-Lets use this repository to pull other github repositories as well as store our code that we will actually use in the PROJECT folder.
+Project folder will include the files we actually need to make this happen.
+
+helpful repos is a folder with some repos I found on github that do kinda what we wanna do.
